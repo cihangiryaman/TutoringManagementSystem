@@ -21,6 +21,8 @@ Built with Clean Architecture principles and multi-tenant support, Cadap allows 
 
 Actively using by 5 teachers and 50+ students
 
+https://www.ozelderstakipsistemi.com
+
 ---
 
 ## ScreenShots
