@@ -19,6 +19,17 @@
 
 Built with Clean Architecture principles and multi-tenant support, Cadap allows multiple tutors to use the same platform with complete data isolation.
 
+Actively using by 5 teachers and 50+ students
+
+---
+
+## ScreenShots
+### Desktop
+<img src="images/Home-Screen.png" alt="alt text" width="49.5%"> <img src="images/Calendar-View.png" alt="alt text" width="49.5%">
+<img src="images/Student-Detail.png" alt="alt text" width="49.5%"> <img src="images/Earnings.png" alt="alt text" width="49.5%">
+
+### Mobile
+<img src="images/Home-Screen-m.png" alt="alt text" width="24.3%"> <img src="images/Calendar-View-m.png" alt="alt text" width="24.3%"> <img src="images/Student-Detail-m.png" alt="alt text" width="24.3%"> <img src="images/Earnings-m.png" alt="alt text" width="24.3%">
 ---
 
 ## Features
